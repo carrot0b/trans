@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">핀둬둬 한글화</string>
+    <string name="a11y_desc">핀둬둬가 화면에 떠 있는지 감지하고, 번역된 한글을 화면 위에 겹쳐 그립니다. 화면 내용은 기기 안에서만 처리되며 외부로 전송되지 않습니다.</string>
+</resources>
